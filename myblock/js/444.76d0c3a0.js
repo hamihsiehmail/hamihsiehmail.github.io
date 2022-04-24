@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkblocklygameweb"]=self["webpackChunkblocklygameweb"]||[]).push([[444],{7444:(e,n,a)=>{a.r(n),a.d(n,{default:()=>o});var u=a(3673);function r(e,n,a,r,t,c){const l=(0,u.up)("router-view");return(0,u.wg)(),(0,u.iD)("div",null,[(0,u.Wm)(l)])}const t=(0,u.aZ)({name:"MainLayout"});var c=a(4260);const l=(0,c.Z)(t,[["render",r]]),o=l}}]);
