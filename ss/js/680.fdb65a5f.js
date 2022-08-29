@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkmynewss"]=globalThis["webpackChunkmynewss"]||[]).push([[680],{73680:(e,s,n)=>{n.r(s),n.d(s,{default:()=>i});var l=n(59835),u=n(60499);const a={__name:"vue3BaseComponent",setup(e){(0,u.iH)(0);return(e,s)=>((0,l.wg)(),(0,l.iD)("div",null,"Hellow"))}},t=a,i=t}}]);
