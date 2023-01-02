@@ -1,1 +1,0 @@
-(()=>{self.onmessage=function(a){let e=a.data;switch(e.cmd){case"sourceUserOut":e.data.viaWorker="Out",self.postMessage({cmd:e.cmd,data:e.data});break;case"sourceUserIn":e.data.viaWorker="In",self.postMessage({cmd:e.cmd,data:e.data});break}}})();
