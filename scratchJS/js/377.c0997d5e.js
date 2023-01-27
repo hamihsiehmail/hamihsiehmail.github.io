@@ -1,0 +1,1 @@
+(()=>{self.onmessage=function(e){let s=e.data;switch(s.cmd){case"user_2S_vue2worker":self.postMessage({cmd:"user_2S_worker2socket",data:s.data});break;case"user_2C_socket2worker":self.postMessage({cmd:"user_2C_worker2vue",data:s.data});break}}})();
