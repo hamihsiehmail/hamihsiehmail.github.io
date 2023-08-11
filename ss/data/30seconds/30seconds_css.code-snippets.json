@@ -1,0 +1,302 @@
+{
+  "hcss Flexbox 30-seconds-of-code": {
+    "prefix": "hcss Flexbox 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "Using flexbox to vertically and horizontally center content is usually the **preferred method**. All it takes is three lines of code in the container element to set `display: flex` and then center the child element vertically and horizontally using `align-items: center` and `justify-content: center` respectively. You can view the [Flexbox centering snippet](/css/s/flexbox-centering) for the code and examples.\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Grid 30-seconds-of-code": {
+    "prefix": "hcss Grid 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "Using the grid module is very similar to flexbox and also a common technique, especially if you are **already using grid in your layout**. The only difference from the previous technique is the `display` which is set to `grid` instead. You can view the [Grid centering snippet](/css/s/grid-centering) for the code and examples.\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Transform 30-seconds-of-code": {
+    "prefix": "hcss Transform 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "Transform centering uses, as the name implies, CSS transforms to center an element. It depends on the container element having a `position: relative`, allowing the child element to utilize `position: absolute` to position itself. Then `left: 50%` and `top: 50%` are used to offset the child element and `transform: translate(-50%, -50%)` to negate its position. You can view the [Transform centering snippet](/css/s/transform-centering) for the code and examples.\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Table 30-seconds-of-code": {
+    "prefix": "hcss Table 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "Last but not least, table centering is an older technique which you might favor when working with **older browsers**. It depends on the use of `display: table` in the container element. This allows the child element to use `display: table-cell` in combination with `text-align: center` and `vertical-align: middle` to center itself horizontally and vertically. You can view the [Display table centering snippet](/css/s/display-table-centering) for the code and examples.\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Visual check 30-seconds-of-code": {
+    "prefix": "hcss Visual check 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "The very first step when reviewing CSS is to check if the **result looks right**. This might mean comparing the end result to a **design mockup** or checking if every interaction behaves according to the animation principles the team has agreed upon. **Responsiveness** is also a key factor to consider, so you should check if the page looks right on **different screen sizes**. The visual check is probably the most straightforward and important step, but unfortunately many developers stop there.\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Code style 30-seconds-of-code": {
+    "prefix": "hcss Code style 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "Your team should have set up a **linter and formatter** for CSS and, if you haven't, you should do it as soon as possible. This will help you enforce a consistent code style and make the code easier to read and maintain. Provided that's the case, you should check for **conventions** that the linter can't automatically enforce. These often include naming conventions, proper documentation or the use of CSS custom properties in place of hard-coded values.\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Specificity 30-seconds-of-code": {
+    "prefix": "hcss Specificity 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "CSS selectors can be easily abused, causing headaches later down the line. Having clear conventions usually resolves a lot of issues, but things can slip through the cracks. Ensuring specificity is **as low as possible** and that selectors are **not too generic or overly complex** will help increase the code's maintainability.\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Leftovers 30-seconds-of-code": {
+    "prefix": "hcss Leftovers 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "In an ideal scenario, the Pull Request author has a clear vision of the CSS they are writing and everything works out perfectly the first time. As you know, that's rarely the case, meaning experimentation and changes will happen during development. As the code changes, some **old code** might hang around without contributing anything to the page. One of the most common examples I've stumbled upon are flexbox-related properties for non-flexbox elements. These take a bit of time to spot, but they can be easily removed, saving you problems in the future.\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Performance 30-seconds-of-code": {
+    "prefix": "hcss Performance 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "CSS performance is very often overlooked. Simple rules, deduplication and minimum overrides are some of the things that can be done to improve performance. Understandably, this sort of opportunity is **hard to spot**, but it's worth keeping an eye out for. That being said, don't go overboard with performance optimizations. If you're not sure if something is worth it, you should probably leave it as is.\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Container 30-seconds-of-code": {
+    "prefix": "hcss Container 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "- `display: flex` or `display: inline-flex`: creates a flex context (or an inline flex context) for direct children of this element\r",
+      "- `flex-direction` determines the main and cross axis for the container, valid values are:\r",
+      "  - `row` (default): horizontal, in the direction of writing (left to right for English)\r",
+      "  - `row-reverse`: horizontal, in the opposite direction of writing (right to left for English)\r",
+      "  - `column`: vertical, top to bottom\r",
+      "  - `column-reverse`: vertical, bottom to top\r",
+      "- `flex-wrap` determines if flex items will try to fit in one line, valid values are:\r",
+      "  - `nowrap` (default): all flex items will be on one line\r",
+      "  - `wrap`: flex items will wrap onto multiple lines, top to bottom\r",
+      "  - `wrap-reverse`: flex items will wrap onto multiple lines, bottom to top\r",
+      "- `flex-flow`: shorthand combining `flex-direction` and `flex-wrap`\r",
+      "  - Formal syntax: `flex-flow: <'flex-direction'> || <'flex-wrap'>`\r",
+      "- `justify-content` defines the alignment along the main axis, valid values are:\r",
+      "  - `flex-start` (default): pack flex items from the start\r",
+      "  - `flex-end`: pack flex items from the end\r",
+      "  - `start`: pack items from the start\r",
+      "  - `end`: pack items from the end\r",
+      "  - `left`: pack items from the left\r",
+      "  - `right`: pack items from the right\r",
+      "  - `center`: pack items around the center\r",
+      "  - `space-around`: distribute items evenly with equal space around them\r",
+      "  - `space-between`: distribute items evenly with equal space between them\r",
+      "  - `space-evenly`: distribute items evenly, ensuring equal space between any two items\r",
+      "  - `stretch`: distribute items evenly, stretching auto-sized items to fit the container\r",
+      "- `align-items` defines the alignment along the cross axis, valid values are:\r",
+      "  - `flex-start` (default): pack flex items from the start\r",
+      "  - `flex-end`: pack flex items from the end\r",
+      "  - `start`: pack items from the start\r",
+      "  - `end`: pack items from the end\r",
+      "  - `center`: pack items around the center\r",
+      "  - `baseline`: align items based on their baselines\r",
+      "  - `stretch`: stretch items to fill the container\r",
+      "- `align-content` defines the alignment of extra space along the cross axis, valid values are:\r",
+      "  - `flex-start` (default): pack flex items from the start\r",
+      "  - `flex-end`: pack flex items from the end\r",
+      "  - `start`: pack items from the start\r",
+      "  - `end`: pack items from the end\r",
+      "  - `center`: pack items around the center\r",
+      "  - `space-around`: distribute items evenly with equal space around them\r",
+      "  - `space-between`: distribute items evenly with equal space between them\r",
+      "  - `space-evenly`: distribute items evenly, ensuring equal space between any two items\r",
+      "  - `stretch`: distribute items evenly, stretching auto-sized items to fit the container\r",
+      "\r",
+      "![Diagram of Flexbox properties](./illustrations/flexbox-diagram.png)\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Items 30-seconds-of-code": {
+    "prefix": "hcss Items 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "- `flex-grow` determines how much the item can grow if necessary\r",
+      "  - Accepts a single positive number (unitless), default value is `0`\r",
+      "  - Specifies how much of the remaining space in the flex container should be assigned to the item\r",
+      "  - The remaining space is the size of the flex container minus the size of all flex items' sizes together\r",
+      "  - If all items have the same `flex-grow`, all items will receive an equal share of the remaining space\r",
+      "  - If not all items have the same `flex-grow`, the remaining space is distributed according to the ratio defined by these values\r",
+      "- `flex-shrink` determines how much the items can shrink if necessary\r",
+      "  - Accepts a single positive number (unitless), default value is `1`\r",
+      "  - If the size of all flex items is larger than the flex container, items shrink to fit according to `flex-shrink`\r",
+      "- `flex-basis` determines the initial size of a flex item before the remaining space is distributed\r",
+      "  - Can use any valid `width` value, intrinsic size values, `auto` (default) or `content`\r",
+      "  - `auto` means \"look at my `width` or `height` property\", whereas `content` is used for automatic sizing\r",
+      "- `flex`: shorthand combining `flex-grow`, `flex-shrink` and `flex-basis`\r",
+      "  - Formal syntax: `flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]`\r",
+      "- `align-self` allows the item to override the default `align-items` specified by the container\r",
+      "  - Valid values are the same as those of the `align-items` property in the container\r",
+      "- `order` determines the ordering of the item\r",
+      "  - Accepts an integer value\r",
+      "  - Items in a container are sorted by ascending `order` value and then by their source code order\r",
+      "  - Might cause accessibility issues if used incorrectly\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Using Flexbox 30-seconds-of-code": {
+    "prefix": "hcss Using Flexbox 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "You can use flexbox to ensure that the footer is always at the bottom of the page. This is done by setting the giving the `body` element `min-height: 100vh`, `display: flex` and `flex-direction: column`. Then, give the `footer` element a `margin-top: auto` to make its margin fill the remaining space between it and its previous sibling. Note that this technique will not stretch the previous sibling, but rather **push the footer to the bottom of the page**.\r",
+      "\r",
+      "\r",
+      "```css\r",
+      "body {\r",
+      "  min-height: 100vh;\r",
+      "  display: flex;\r",
+      "  flex-direction: column;\r",
+      "}\r",
+      "\r",
+      "footer {\r",
+      "  margin-top: auto;\r",
+      "}\r",
+      "```\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Using Grid 30-seconds-of-code": {
+    "prefix": "hcss Using Grid 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "You can also use grid in a very similar fashion. Simply swap `display: flex` for `display: grid` and `flex-direction: column` for `grid-template-rows: 1fr auto` in the `body` element. No additional attributes are needed for the `footer` element. In this case, the `fr` unit is leveraged to stretch the `main` element to **fill the remaining space**.\r",
+      "\r",
+      "```css\r",
+      "body {\r",
+      "  min-height: 100vh;\r",
+      "  display: grid;\r",
+      "  grid-template-rows: 1fr auto;\r",
+      "}\r",
+      "```\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Notes 30-seconds-of-code": {
+    "prefix": "hcss Notes 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "As you can see, both techniques are straightforward to implement. Depending on your needs one might be more suitable than the other. Generally speaking, grid is more flexible in most cases and can help if you have more complex layouts, which can include a header or sidebar.\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Commonly used pseudo-classes 30-seconds-of-code": {
+    "prefix": "hcss Commonly used pseudo-classes 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "Below is a list of the top 5 most commonly used pseudo-classes and their usage. This list is by no means complete. You should always refer to relevant documentation from authoritative sources, such as [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) for more information.\r",
+      "\r",
+      "- `:hover`, `:focus` and `:active` are used to provide feedback for user interaction (e.g. changing a button's color on hover)\r",
+      "- `:link` and `:visited` are useful for styling links based on navigation history (e.g. changing the color of visited links)\r",
+      "- `:first-child`, `:last-child`, `:nth-child()` and `nth-last-child()` are useful when working with collections of elements\r",
+      "- `:not()` is used to match everything except the given selector and can be useful in styling hard to select elements\r",
+      "- `:lang()` allows you to apply special styles based on the language of the document and is useful for multilingual websites\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Selector specificity 30-seconds-of-code": {
+    "prefix": "hcss Selector specificity 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "The `:root` selector has a higher specificity than the `html` selector. This is because `:root` is a pseudo-class selector, while `html` is a type selector.\r",
+      "\r",
+      "```css\r",
+      ":root {\r",
+      "  background-color: red;\r",
+      "}\r",
+      "\r",
+      "html {\r",
+      "  background-color: blue;\r",
+      "}\r",
+      "\r",
+      "/* The HTML document's root element will have a red background-color.  */\r",
+      "```\r",
+      "\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  "hcss Targeting the root element 30-seconds-of-code": {
+    "prefix": "hcss Targeting the root element 30-seconds-of-code",
+    "type": "md",
+    "isCode": false,
+    "body": [
+      "\r",
+      "CSS can be used to style other types of documents, apart from HTML. This is where the `:root` element comes in to play, allowing you to style the root element of a document. This can be especially important when styling SVG documents, where the `html` selector will not work.\r",
+      ""
+    ],
+    "description": "https://github.com/30-seconds/30-seconds-of-code"
+  }
+}
