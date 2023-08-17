@@ -1,0 +1,123 @@
+{
+  "hblog 1 篇文章 含有標籤「agile」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「agile」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「agile」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><meta itemprop=\"image\" content=\"https://i.imgur.com/HaOuoJd.png\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2021/01/28/agile-scrum/index.html\">敏捷開發：你我心中，都有一個屬於自己的 MVP</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2021-01-28T00:00:00.000Z\" itemprop=\"datePublished\">2021年1月28日</time> · <!-- -->閱讀時間約 10 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><p><img loading=\"lazy\" src=\"../../../../i.imgur.com/HaOuoJd.png\" alt=\"agile-scrum\" class=\"img_ev3q\"></p><p>由於自己沒有真的很理解過敏捷開發或 Scrum 到底是怎麼一回事，但公司的新專案又開始想要嘗試用這種方式來做 MVP，基於凡事問網友的心態，在 ALPHACamp 社群以及 <a href=\"https://twitter.com/iampjchen/status/1354601393374384129\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter</a> 上得到了很多有價值的回饋，很感謝大家分享意見讓我知道。</p><p>我的問題大概是這樣的：</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 1 篇文章 含有標籤「algo」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「algo」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「algo」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><meta itemprop=\"image\" content=\"https://i.imgur.com/kng0gyR.jpg\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2021/05/03/time-complexity/index.html\">從找衣服了解時間複雜度</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2021-05-03T00:00:00.000Z\" itemprop=\"datePublished\">2021年5月3日</time> · <!-- -->閱讀時間約 3 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><p><img loading=\"lazy\" src=\"../../../../i.imgur.com/kng0gyR.jpg\" alt=\"time-complexity\" class=\"img_ev3q\"></p><p>剛剛用日常上班前挑衣服的例子和沒學過程式的 00 說明時間複雜度的概念很好理解耶～！</p><p>例子是這樣的...</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 1 篇文章 含有標籤「docusaurus」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「docusaurus」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「docusaurus」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><meta itemprop=\"image\" content=\"https://i.imgur.com/bAtn21z.png\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2021/01/03/happy-new-year/index.html\">2021 部落格搬家到 docusaurus</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2021-01-03T00:00:00.000Z\" itemprop=\"datePublished\">2021年1月3日</time> · <!-- -->閱讀時間約 2 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><p><img loading=\"lazy\" src=\"../../../../i.imgur.com/bAtn21z.png\" alt=\"docusaurus v2\" class=\"img_ev3q\"></p><p>過去的「未整理筆記」一直是使用 <a href=\"https://hexo.io/zh-tw/\" target=\"_blank\" rel=\"noopener noreferrer\">hexo</a> 建置的，hexo 用起來其實非常方便，<code>$ hexo generate -d</code> 基本上就搞定了。大概在去年（2020）年中時接觸到 <a href=\"https://v2.docusaurus.io/\" target=\"_blank\" rel=\"noopener noreferrer\">docusaurus</a> 這套由 Facebook 推出的 docs + blogs 的工具，雖然目前還在 alpha.70 階段，但一用就非常吸引我。</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 1 篇文章 含有標籤「dsa」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「dsa」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「dsa」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><meta itemprop=\"image\" content=\"https://i.imgur.com/kng0gyR.jpg\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2021/05/03/time-complexity/index.html\">從找衣服了解時間複雜度</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2021-05-03T00:00:00.000Z\" itemprop=\"datePublished\">2021年5月3日</time> · <!-- -->閱讀時間約 3 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><p><img loading=\"lazy\" src=\"../../../../i.imgur.com/kng0gyR.jpg\" alt=\"time-complexity\" class=\"img_ev3q\"></p><p>剛剛用日常上班前挑衣服的例子和沒學過程式的 00 說明時間複雜度的概念很好理解耶～！</p><p>例子是這樣的...</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 標籤 pjchender.dev": {
+    "prefix": "hblog 標籤 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>標籤</h1><section class=\"margin-vert--lg\"><article><h2>A</h2><ul class=\"padding--none\"><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"agile/index.html\">agile<span>1</span></a></li><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"algo/index.html\">algo<span>1</span></a></li></ul><hr></article><article><h2>D</h2><ul class=\"padding--none\"><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"docusaurus/index.html\">docusaurus<span>1</span></a></li><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"dsa/index.html\">dsa<span>1</span></a></li></ul><hr></article><article><h2>M</h2><ul class=\"padding--none\"><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"mvp/index.html\">mvp<span>1</span></a></li></ul><hr></article><article><h2>S</h2><ul class=\"padding--none\"><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"scrum/index.html\">scrum<span>1</span></a></li></ul><hr></article><article><h2>反</h2><ul class=\"padding--none\"><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"%e5%8f%8d%e6%80%9d/index.html\">反思<span>1</span></a></li></ul><hr></article><article><h2>心</h2><ul class=\"padding--none\"><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"%e5%bf%83%e5%be%97/index.html\">心得<span>2</span></a></li></ul><hr></article><article><h2>思</h2><ul class=\"padding--none\"><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"%e6%80%9d%e8%80%83/index.html\">思考<span>1</span></a></li></ul><hr></article><article><h2>職</h2><ul class=\"padding--none\"><li class=\"tag_Nnez\"><a class=\"tag_zVej tagWithCount_h2kH\" href=\"%e8%81%b7%e5%a0%b4/index.html\">職場<span>1</span></a></li></ul><hr></article></section></main></div></div></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 1 篇文章 含有標籤「mvp」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「mvp」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「mvp」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><meta itemprop=\"image\" content=\"https://i.imgur.com/HaOuoJd.png\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2021/01/28/agile-scrum/index.html\">敏捷開發：你我心中，都有一個屬於自己的 MVP</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2021-01-28T00:00:00.000Z\" itemprop=\"datePublished\">2021年1月28日</time> · <!-- -->閱讀時間約 10 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><p><img loading=\"lazy\" src=\"../../../../i.imgur.com/HaOuoJd.png\" alt=\"agile-scrum\" class=\"img_ev3q\"></p><p>由於自己沒有真的很理解過敏捷開發或 Scrum 到底是怎麼一回事，但公司的新專案又開始想要嘗試用這種方式來做 MVP，基於凡事問網友的心態，在 ALPHACamp 社群以及 <a href=\"https://twitter.com/iampjchen/status/1354601393374384129\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter</a> 上得到了很多有價值的回饋，很感謝大家分享意見讓我知道。</p><p>我的問題大概是這樣的：</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 1 篇文章 含有標籤「scrum」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「scrum」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「scrum」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><meta itemprop=\"image\" content=\"https://i.imgur.com/HaOuoJd.png\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2021/01/28/agile-scrum/index.html\">敏捷開發：你我心中，都有一個屬於自己的 MVP</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2021-01-28T00:00:00.000Z\" itemprop=\"datePublished\">2021年1月28日</time> · <!-- -->閱讀時間約 10 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><p><img loading=\"lazy\" src=\"../../../../i.imgur.com/HaOuoJd.png\" alt=\"agile-scrum\" class=\"img_ev3q\"></p><p>由於自己沒有真的很理解過敏捷開發或 Scrum 到底是怎麼一回事，但公司的新專案又開始想要嘗試用這種方式來做 MVP，基於凡事問網友的心態，在 ALPHACamp 社群以及 <a href=\"https://twitter.com/iampjchen/status/1354601393374384129\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter</a> 上得到了很多有價值的回饋，很感謝大家分享意見讓我知道。</p><p>我的問題大概是這樣的：</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 1 篇文章 含有標籤「反思」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「反思」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「反思」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2022/12/09/why-not-over-work/index.html\">加班是為了公司，還是為了自己？</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2022-12-09T00:00:00.000Z\" itemprop=\"datePublished\">2022年12月9日</time> · <!-- -->閱讀時間約 7 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><div class=\"theme-admonition theme-admonition-info alert alert--info admonition_LlT9\"><div class=\"admonitionHeading_tbUL\"><span class=\"admonitionIcon_kALy\"><svg viewBox=\"0 0 14 16\"><path fill-rule=\"evenodd\" d=\"M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z\"></path></svg></span>Info</div><div class=\"admonitionContent_S0QG\"><p>這篇主要是寫給自己看的，因為我是一個很容易就會不小心加班，想要把事情完成的人。</p></div></div><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"為什麼不要加班\">為什麼不要加班？<a href=\"#為什麼不要加班\" class=\"hash-link\" aria-label=\"為什麼不要加班？的直接連結\" title=\"為什麼不要加班？的直接連結\">​</a></h2><p>我認為下面這幾種情況是「合理」加班：</p><ul><li>因為自己犯錯需要彌補錯誤而加班：可能是因為理解錯需求、寫出 bug 等情況</li><li>因為自己能力不足而加班：這比較像是職稱和能力不太對等的情況，這時候也許會需要花時間補足自己能力不足的部分</li><li>不是公司要求，但想要自己花時間研究該需求到使用的技術</li></ul></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 2 篇文章 含有標籤「心得」 pjchender.dev": {
+    "prefix": "hblog 2 篇文章 含有標籤「心得」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>2 篇文章 含有標籤「心得」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><meta itemprop=\"image\" content=\"https://i.imgur.com/S1Uerhk.png\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2021/04/25/job/index.html\">2021 求職面試心得分享</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2021-04-25T00:00:00.000Z\" itemprop=\"datePublished\">2021年4月25日</time> · <!-- -->閱讀時間約 14 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><p>由於過去求職時在 ptt 上或許多個人網誌中獲得了許多幫助，因此這次也來分享自己面試的心得，希望對於求職的大家們能夠有些幫助。</p><p>這次求職過程中，在和幾位不同的 Team Lead 或是 CTO 面談的過程中，真的讓我感受到<strong>多數厲害的人總是自信而謙虛的</strong>，他們不會透過問題來讓你覺得自己不懂，反倒是很 open-minded 讓你感受到雖然這個自己現在不懂，但沒關係，甚至會進一步透過提問來協助你進一步釐清自己的思路。</p><blockquote><p>同樣地，我也期許對於自己的專業能夠是「自信而謙虛」的態度。</p></blockquote><p>過去雖然常聽大神說，工作一陣子後，通常就不用自己找工作，而是靠別人介紹或挖角，但我可能還沒到這個階段，周圍沒什麼人介紹，更別說是挖角，所以還是只能靠自己 XDD。</p><p>下面是我這次有面試的幾間公司，主要找公司市場不侷限於台灣的公司，面試的職缺全部都是前端工程師。</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 1 篇文章 含有標籤「思考」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「思考」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「思考」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2022/12/10/cs-psy/index.html\">軟體開發與心理學</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2022-12-10T00:00:00.000Z\" itemprop=\"datePublished\">2022年12月10日</time> · <!-- -->閱讀時間約 3 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"software-and-softskill\">&quot;Soft&quot;ware and &quot;Soft&quot;skill<a href=\"#software-and-softskill\" class=\"hash-link\" aria-label=\"&quot;Soft&quot;ware and &quot;Soft&quot;skill的直接連結\" title=\"&quot;Soft&quot;ware and &quot;Soft&quot;skill的直接連結\">​</a></h2><p>面對人、組織的問題時，想想如果這是在寫程式的話，可以怎麼處理？</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hblog 1 篇文章 含有標籤「職場」 pjchender.dev": {
+    "prefix": "hblog 1 篇文章 含有標籤「職場」 pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>1 篇文章 含有標籤「職場」</h1><a href=\"../index.html\">檢視所有標籤</a></header><article class=\"margin-bottom--xl\" itemprop=\"blogPost\" itemscope=\"\" itemtype=\"http://schema.org/BlogPosting\"><header><h2 class=\"title_f1Hy\" itemprop=\"headline\"><a itemprop=\"url\" href=\"../../2022/12/09/why-not-over-work/index.html\">加班是為了公司，還是為了自己？</a></h2><div class=\"container_mt6G margin-vert--md\"><time datetime=\"2022-12-09T00:00:00.000Z\" itemprop=\"datePublished\">2022年12月9日</time> · <!-- -->閱讀時間約 7 分鐘</div><div class=\"margin-top--md margin-bottom--sm row\"><div class=\"col col--6 authorCol_Hf19\"><div class=\"avatar margin-bottom--sm\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"avatar__photo-link\"><img class=\"avatar__photo\" src=\"https://s.gravatar.com/avatar/fdf04270ddf3cae7b050d4f2446d1166?s=80\" alt=\"PJCHENder\"></a><div class=\"avatar__intro\" itemprop=\"author\" itemscope=\"\" itemtype=\"https://schema.org/Person\"><div class=\"avatar__name\"><a href=\"https://github.com/pjchender\" target=\"_blank\" rel=\"noopener noreferrer\" itemprop=\"url\"><span itemprop=\"name\">PJCHENder</span></a></div></div></div></div></div></header><div class=\"markdown\" itemprop=\"articleBody\"><div class=\"theme-admonition theme-admonition-info alert alert--info admonition_LlT9\"><div class=\"admonitionHeading_tbUL\"><span class=\"admonitionIcon_kALy\"><svg viewBox=\"0 0 14 16\"><path fill-rule=\"evenodd\" d=\"M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z\"></path></svg></span>Info</div><div class=\"admonitionContent_S0QG\"><p>這篇主要是寫給自己看的，因為我是一個很容易就會不小心加班，想要把事情完成的人。</p></div></div><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"為什麼不要加班\">為什麼不要加班？<a href=\"#為什麼不要加班\" class=\"hash-link\" aria-label=\"為什麼不要加班？的直接連結\" title=\"為什麼不要加班？的直接連結\">​</a></h2><p>我認為下面這幾種情況是「合理」加班：</p><ul><li>因為自己犯錯需要彌補錯誤而加班：可能是因為理解錯需求、寫出 bug 等情況</li><li>因為自己能力不足而加班：這比較像是職稱和能力不太對等的情況，這時候也許會需要花時間補足自己能力不足的部分</li><li>不是公司要求，但想要自己花時間研究該需求到使用的技術</li></ul></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  }
+}

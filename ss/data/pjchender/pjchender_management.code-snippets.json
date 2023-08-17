@@ -1,0 +1,24 @@
+{
+  "hmanagement Engineering Manager pjchender.dev": {
+    "prefix": "hmanagement Engineering Manager pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>Engineering Manager</h1></header><div class=\"theme-admonition theme-admonition-info alert alert--info admonition_LlT9\"><div class=\"admonitionHeading_tbUL\"><span class=\"admonitionIcon_kALy\"><svg viewBox=\"0 0 14 16\"><path fill-rule=\"evenodd\" d=\"M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z\"></path></svg></span>資料來源</div><div class=\"admonitionContent_S0QG\"><p><a href=\"https://www.educative.io/courses/acing-the-engineering-manager-interview\" target=\"_blank\" rel=\"noopener noreferrer\">Acing the Engineering Manager Interview</a> @ Educative.io</p></div></div><p>If building high-performing teams and helping people grow is what you’re passionate about, then becoming an EM may be the perfect decision for you.</p><p>If you prefer to dedicate most of your time to solving complex engineering problems, then maybe you’re better off trying to grow as an engineer.</p></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  },
+  "hmanagement Project Management pjchender.dev": {
+    "prefix": "hmanagement Project Management pjchender.dev",
+    "type": "html",
+    "isCode": false,
+    "body": [
+      "<div><h1>Project Management</h1></header><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"terms\">Terms<a href=\"#terms\" class=\"hash-link\" aria-label=\"Terms的直接連結\" title=\"Terms的直接連結\">​</a></h2><h3 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"spikes-and-rfcs-request-for-comments\">Spikes and RFCs (Request for Comments)<a href=\"#spikes-and-rfcs-request-for-comments\" class=\"hash-link\" aria-label=\"Spikes and RFCs (Request for Comments)的直接連結\" title=\"Spikes and RFCs (Request for Comments)的直接連結\">​</a></h3><ul><li>Spikes<ul><li>Focused on research and exploration</li><li>When you&#x27;re trying to figure out how to do something</li></ul></li><li>RFCs<ul><li>Focused on proposing and discussing changes to a system or protocol</li><li>When you know what to do but want to get consensus on your proposal before moving forward</li></ul></li></ul></div>",
+      "<style>.buttonGroup__atx{display:none;}",
+      "pre {background-color: rgb(41,45,62);}</style>"
+    ],
+    "description": "https://pjchender.dev"
+  }
+}
