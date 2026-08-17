@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World with Socket.io</title>
+  </head>
+
+  <body>
+    <!-- https://cdnjs.com/libraries/socket.io , may download the js file -->
+    <!-- https://cdnjs.com/ -->
+    <!-- TEST ONLY, Server has to disalbe helmet -->
+    <!-- SHOULD test by vue socket.io-client -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.5.1/socket.io.min.js"></script>
+    <script>
+      var socket = io.connect("ws://localhost:3000"); // , { infoKey: "infovalue" }); //send more info ex name: you
+      socket.on("message_from_server_to_client", function (msg) {
+        document.getElementById("message").innerHTML = msg;
+      });
+      socket.emit("message_from_client_to_server", "Hello World!");
+    </script>
+    <p>Socket.io Hello World client started!</p>
+    <p id="message"></p>
+  </body>
+</html>
